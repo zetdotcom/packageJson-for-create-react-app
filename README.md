@@ -5,7 +5,7 @@ This is an enhanced package.json file.
 copy dependencies and scripts.
 
 
-<!-- HTML generated using hilite.me --><div style="background: #272822; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">   <span style="color: #e6db74">&quot;dependencies&quot;</span><span style="color: #f92672">:</span> <span style="color: #f8f8f2">{</span>
+<div style="background: #272822; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%">   <span style="color: #e6db74">&quot;dependencies&quot;</span><span style="color: #f92672">:</span> <span style="color: #f8f8f2">{</span>
     <span style="color: #e6db74">&quot;babel-polyfill&quot;</span><span style="color: #f92672">:</span> <span style="color: #e6db74">&quot;^6.26.0&quot;</span><span style="color: #f8f8f2">,</span>
     <span style="color: #e6db74">&quot;classnames&quot;</span><span style="color: #f92672">:</span> <span style="color: #e6db74">&quot;^2.2.5&quot;</span><span style="color: #f8f8f2">,</span>
     <span style="color: #e6db74">&quot;eslint&quot;</span><span style="color: #f92672">:</span> <span style="color: #e6db74">&quot;^4.12.0&quot;</span><span style="color: #f8f8f2">,</span>
